@@ -1,0 +1,37 @@
+.top{
+	position: absolute;
+}
+.c1200{
+	width: 1200px;
+	color: rgb(113,113,113);
+	font-size: 14px;
+	height: 1864px;
+	margin: 0 auto;
+	margin-top: 100px;
+}
+.clean{
+	clear: both;
+}
+.c1200 h1{
+	font-size: 20px;
+	color: rgb(51,51,51);
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+.c1200  h2{
+	font-size: 16px;
+	color: rgb(51,51,51);
+	font-weight: bold;
+	margin-bottom: 10px;
+	
+}
+.c1200 .re{
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+.c1200 .re a{
+	margin-right: 10px;
+}
+a:hover,h2{
+    color: red;
+}

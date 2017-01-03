@@ -1,0 +1,38 @@
+.s1200{
+	width: 1178px;
+	height: 1268px;
+	margin: 100px auto;
+	
+}
+.s1200 h2{
+	color: rgb(51,51,51);
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+.s1200 .a{
+	float: left;
+	width: 1200px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+.s1200 .a .a1{
+	font-size: 20px;
+	font-weight: bold;
+	border: 1px solid rgb(153,153,153);
+	text-align: center;
+	width: 52px;
+	height: 32px;
+	float: left;
+	margin-right: 20px;
+	color: rgb(102,102,102)
+}
+.s1200 .a a{
+	float: left;
+	margin: 5px 10px 5px 10px;
+}
+a{
+	font-size: 14px;
+	color: rgb(102,102,102);
+}
+

@@ -5,7 +5,7 @@ var i = 0;
 function my(){
 	pic.src = 'img/' + imgs[i];
 	i++;
-	if(i > imgs.length){
+	if(i >= imgs.length){
 		i = 0;
 	}
 }

@@ -1,0 +1,139 @@
+.w1280{
+	width: 1280px;
+	height: 1040px;
+	 margin: 100px auto;
+}
+.w240{
+	width:250px;
+    height: 1096px;
+    margin-top: 20px;
+    border: 1px solid rgb(221,221,221)
+}
+.left-a{
+	width: 217px;
+	border: 1px solid rgb(221,221,221);
+	background: rgb(245,245,245);
+	padding: 10px 16px 10px 16px;
+	color: rgb(255,87,26);
+}
+.w240 .left-b{
+	width: 216px;
+	height: 200px;
+	float: left;
+	border-bottom: 1px solid rgb(221,221,221);
+	padding: 10px;
+	margin-left: 5px;
+}
+.w240 .left-b span,.left-c span{
+	font-size: 14px;
+	font-weight: normal;
+	color: rgb(51,51,51);
+}
+.w240 .left-b a,.left-c a{
+	font-size: 12px;
+}
+.w240 .left-b .left-b-a,.left-c .left-c-a{
+	float: right;
+	margin-top: 3px;
+}
+.w240 .left-b ul{
+	
+}
+.w240 .left-b li{
+	float: left;
+	width: 50px;
+	margin-top: 10px;
+}
+
+.w240 .left-c{
+	width: 217px;
+	height: 89px;
+	float: left;
+	border-bottom: 1px solid rgb(221,221,221);
+	padding: 10px;
+	margin-left: 5px;
+}
+.w240 .left-c .left-c-b a{
+	width: 23px;
+	height: 8px;
+	background-color: rgb(221,221,221);
+	cursor: pointer;
+	display: block;
+	float: left;
+	margin:25px 3px 1px 2px;
+}
+.w240 .left-c .left-c-b div{
+	float: left;
+	color: rgb(140,140,140);
+	font-size: 12px;
+	margin-right: 16px;
+	cursor: pointer;
+}
+.w240 .left-d{
+	width: 217px;
+	height: 190px;
+	float: left;	
+	padding: 10px;
+	margin-left: 5px;
+}
+.w240 .left-d span{
+	width: 217px;
+	font-size: 14px;
+}
+.w240 .left-d .left-d-a{
+	width: 66px;
+	height: 45px;
+	margin: 10px 0px 0px 6px;
+	cursor: pointer;
+	float: left;
+	
+}
+.w240 .left-d .d{
+	float: left;
+}
+.w240 .left-e{
+	width: 217px;
+	height: 190px;
+	float: left;	
+	padding: 10px;
+	margin-left: 5px;
+}
+.w240 .left-e span{
+	width: 217px;
+	font-size: 14px;
+}
+.w240 .left-e .left-e-a{
+	cursor: pointer;
+	height: 30px;
+	width: 78px;
+	padding-left: 10px;
+	border: 1px solid rgb(221,221,221);	
+	line-height: 30px;	
+	margin-top: 10px;
+	background: url(../img/r.png)no-repeat 65px 11px;
+}
+.w240 .left-e .left-e-a a{
+	font-size: 12px;
+	color: rgb(170,170,170);
+}
+.w240 .left-e p{
+	float: left;
+	font-size: 14px;
+	color: rgb(170,170,170);
+	margin: -25px 0px 0px 100px;
+}
+.w240 .left-e .e{
+	margin-bottom: 10px;
+	float: left;
+}
+.w240 .left-e .left-e-b{
+	cursor: pointer;
+	height: 30px;
+	width: 195px;
+	padding-left: 10px;
+	border: 1px solid rgb(221,221,221);	
+	line-height: 30px;	
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background: url(../img/r.png)no-repeat 185px 11px;
+}
